@@ -1,6 +1,6 @@
 ---
 name: etude-de-marche
-description: Mener une étude de marché riche, sourcée et structurée sur une entreprise et son marché, en trois temps : comprendre l'environnement, comparer et analyser, puis organiser la veille et décider. À utiliser quand je dis « étude de marché », « PESTEL », « benchmark », « veille » ou « analysez ce marché ».
+description: "Mener une étude de marché riche, sourcée et structurée sur une entreprise et son marché, en trois temps : comprendre l'environnement, comparer et analyser, puis organiser la veille et décider. À utiliser quand je dis « étude de marché », « PESTEL », « benchmark », « veille » ou « analysez ce marché »."
 ---
 # Étude de marché
 

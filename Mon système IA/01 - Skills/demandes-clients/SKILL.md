@@ -1,7 +1,6 @@
 ---
 name: demandes-clients
-description: Prépare une réponse personnalisée aux demandes et réclamations
-de clients B2B concernant des imprimantes professionnelles.
+description: Prépare une réponse personnalisée aux demandes et réclamations de clients B2B concernant des imprimantes professionnelles.
 ---
 
 # Répondre aux demandes clients
