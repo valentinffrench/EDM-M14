@@ -22,7 +22,7 @@ Vous avancez en trois temps et je valide chaque temps avant le suivant. Si une n
    - Sur quelle entreprise et quel marché ?
    - Sur quelle zone géographique ?
 3. Si je colle le nom, le téléphone, l'email ou toute donnée d'un vrai client, signalez-le tout de suite et proposez de l'anonymiser. L'étude ne repose que sur des faits publics.
-4. Si vous avez accès à mes fichiers, enregistrez l'étude au fur et à mesure dans `03 - Brainstorms/AAAA-MM-JJ - Étude de marché - Entreprise.md`. Dites-moi en une ligne où.
+4. Si vous avez accès à mes fichiers, créez tout de suite le livrable (voir « Le livrable ») dans `03 - Artefacts/Rapports/` et complétez-le après chaque temps validé. Dites-moi en une ligne où vous l'enregistrez.
 
 ## Les règles de fiabilité (à chaque étape)
 - **Chaque fait porte une source et une date**, par exemple « (INSEE, 2025) ». Sans source, écrivez « à sourcer », jamais un chiffre plausible.
@@ -31,6 +31,32 @@ Vous avancez en trois temps et je valide chaque temps avant le suivant. Si une n
 - **Qualifiez chaque source** avec six questions : Qui (auteur) ? Quand (date) ? Quoi (fait, opinion ou interprétation) ? Comment (méthodologie) ? Pourquoi (objectif de la publication) ? Confirmé (recoupé par une autre source) ?
 - **Une information importante se recoupe** avec une deuxième source indépendante.
 - **Terminez chaque étape** par une courte liste « À vérifier ».
+
+## Le livrable
+L'étude aboutit à un **document d'étude de marché**, en deux versions du même contenu, rangées dans `03 - Artefacts/Rapports/` :
+- `AAAA-MM-JJ - Étude de marché - Entreprise.md` : la version texte, que je garde dans mon second cerveau ;
+- `AAAA-MM-JJ - Étude de marché - Entreprise.html` : une page web pour lire l'étude et interagir avec elle.
+
+Le document suit toujours cette structure :
+1. **En-tête** : titre, entreprise, marché, zone, date, décision à éclairer.
+2. **Synthèse décisionnelle** (cinq lignes au plus) : ce que l'on sait, ce que cela signifie, les trois recommandations.
+3. **Partie 1 · Comprendre** (étapes 1 à 5).
+4. **Partie 2 · Comparer et analyser** (étapes 6 à 11).
+5. **Partie 3 · Veille et recommandations** (étapes 12 à 14), avec le tableau de veille.
+6. **Sources** : un tableau Source · Date · Nature (fait, opinion ou interprétation) · Fiabilité (en une phrase, d'après les six questions). Au moins cinq sources vérifiées et datées.
+7. **À vérifier** : chaque point, avec la personne qui peut y répondre (mon tuteur, un formateur).
+
+Dans les deux versions, ce qui n'est pas vérifié reste visible : « à sourcer » ou « non vérifié », jamais effacé pour faire plus propre.
+
+### La page HTML
+- **Un seul fichier autonome** : aucun lien vers l'extérieur, aucune bibliothèque. Elle s'ouvre par un double-clic, même sans connexion.
+- **Même contenu que le `.md`** : rien ne figure dans la page qui ne soit pas dans le texte.
+- **Pour lire** : un sommaire cliquable ; la synthèse décisionnelle en haut ; chaque partie repliable ; les tableaux lisibles sur téléphone ; une mise en page qui s'imprime bien ; un affichage clair ou sombre selon l'appareil.
+- **Pour interagir** : le tableau de veille se filtre par priorité ; la liste « À vérifier » a des cases à cocher ; chaque fait porte une pastille « fait », « opinion », « interprétation » ou « non vérifié ».
+- **Aucune donnée client réelle**, dans aucune des deux versions.
+- Une fois la page créée, dites-moi comment l'ouvrir.
+
+Si vous n'avez pas accès à mes fichiers, donnez-moi le document au format Markdown dans la conversation, puis proposez-moi de vous fournir la page HTML dans un bloc de code que je pourrai enregistrer moi-même.
 
 ## Temps 1 · Comprendre : j'observe
 1. **Écosystème** : tous les acteurs (clients, collaborateurs, fournisseurs, concurrents, partenaires, institutions et collectivités, médias et réseaux sociaux, prestataires). Le client est au centre, aucun acteur n'est négligé.
@@ -67,4 +93,7 @@ Appliquez la même discipline à chaque conclusion, et posez-moi les deux derni�
 5. **Qu'est-ce que j'en fais ?**
 
 ## Fin
-Quand les trois temps sont validés, proposez-moi une **note de veille d'une page** : la décision à éclairer, l'essentiel de chaque temps, les trois recommandations, et au moins cinq sources vérifiées et datées. Puis listez ce qui reste « à vérifier » et à qui le demander (mon tuteur, un formateur).
+Quand les trois temps sont validés :
+1. Relisez le document en entier pour repérer contradictions et trous, et réconciliez-les.
+2. Rédigez la synthèse décisionnelle, puis créez la page HTML.
+3. Dites-moi où se trouvent les deux fichiers, et rappelez ce qui reste « à vérifier » et à qui le demander.

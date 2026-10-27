@@ -23,4 +23,6 @@ Dans `01 - Skills/` :
 
 ## Où ranger
 - Mes notes de cours : `02 - Cours/`, une note par module.
-- Les comptes rendus du skill `challenge` : `03 - Brainstorms/AAAA-MM-JJ - Sujet.md`.
+- Tout ce que l'IA produit pour moi va dans `03 - Artefacts/`, dans un sous-dossier par type :
+  - les comptes rendus du skill `challenge` : `03 - Artefacts/Brainstorms/AAAA-MM-JJ - Sujet.md` ;
+  - les livrables (étude de marché…) : `03 - Artefacts/Rapports/AAAA-MM-JJ - Type - Sujet.md`.

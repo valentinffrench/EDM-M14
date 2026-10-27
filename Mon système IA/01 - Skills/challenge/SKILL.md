@@ -14,7 +14,7 @@ Un long interrogatoire remplit la conversation. Si vous gardez mes réponses seu
 
 ## Préparation (AVANT la première question)
 
-1. **Créez le compte rendu** dans `03 - Brainstorms/AAAA-MM-JJ - Sujet.md`. Tous les comptes rendus vont à cet endroit, quel que soit le sujet : un seul emplacement prévisible. Ne les dispersez pas dans d'autres dossiers. Si la séance produit un livrable abouti (un persona, un argumentaire, une offre), celui-ci peut ensuite être rangé ailleurs, mais le compte rendu brut reste dans `03 - Brainstorms/`.
+1. **Créez le compte rendu** dans `03 - Artefacts/Brainstorms/AAAA-MM-JJ - Sujet.md`. Tous les comptes rendus vont à cet endroit, quel que soit le sujet : un seul emplacement prévisible. Ne les dispersez pas dans d'autres dossiers. Si la séance produit un livrable abouti (un persona, un argumentaire, une offre), celui-ci peut ensuite être rangé dans `03 - Artefacts/Rapports/`, mais le compte rendu brut reste dans `03 - Artefacts/Brainstorms/`.
    - Si vous ne connaissez pas la date du jour, demandez-la-moi.
 2. **Créez le fichier tout de suite**, avec un en-tête : titre, date, objectif de la séance, et une section « Points ouverts » vide.
 3. **Dites-moi en une ligne où vous enregistrez.** Puis posez la question 1.

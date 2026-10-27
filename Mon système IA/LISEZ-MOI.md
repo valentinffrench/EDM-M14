@@ -27,7 +27,9 @@ Mon système IA/
 │   ├─ demandes-clients/ ← prépare une réponse aux demandes et réclamations de clients B2B
 │   └─ etude-de-marche/  ← mène une étude de marché sourcée, en trois temps
 ├─ 02 - Cours/           ← mes notes de chaque module
-└─ 03 - Brainstorms/     ← les comptes rendus du skill Challenge
+└─ 03 - Artefacts/       ← ce que l'IA produit pour moi
+    ├─ Brainstorms/      ← les comptes rendus du skill Challenge
+    └─ Rapports/         ← les livrables (étude de marché…)
 ```
 
 Un **skill**, c'est un prompt écrit une fois, rangé dans un fichier (`SKILL.md`), que l'IA relit à chaque fois que vous l'appelez.
