@@ -24,7 +24,8 @@ Mon système IA/
 │   ├─ challenge/        ← met mon travail à l'épreuve
 │   ├─ ton/              ← crée mon fichier ton.md
 │   ├─ valeurs/          ← découvre mes valeurs (méthode Demartini)
-│   └─ demandes-clients/ ← prépare une réponse aux demandes et réclamations de clients B2B
+│   ├─ demandes-clients/ ← prépare une réponse aux demandes et réclamations de clients B2B
+│   └─ etude-de-marche/  ← mène une étude de marché sourcée, en trois temps
 ├─ 02 - Cours/           ← mes notes de chaque module
 └─ 03 - Brainstorms/     ← les comptes rendus du skill Challenge
 ```

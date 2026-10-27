@@ -12,6 +12,7 @@ Le second cerveau des apprenants du module 14 (École des Métiers GBH) : un dos
 | `ton` | crée mon fichier `ton.md` (ma façon d'écrire) |
 | `valeurs` | découvre mes valeurs (méthode Demartini) |
 | `demandes-clients` | prépare une réponse aux demandes et réclamations de clients B2B |
+| `etude-de-marche` | mène une étude de marché sourcée, en trois temps |
 
 ## Récupérer le dossier
 - **Sans Git** : bouton vert **Code** > **Download ZIP**, puis décompressez.
